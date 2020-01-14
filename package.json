@@ -1,0 +1,20 @@
+{
+  “ name ”： “ Blog ”，
+  “版本”： “ 1.0.0 ”，
+  “ description ”： “这是个假的博客”，
+  “ main ”： “ index.js ”，
+  “脚本”：{
+    “ test ”： “ echo \”错误：未指定测试\“ &&退出1 ”
+  }，
+  “存储库”：{
+    “ type ”： “ git ”，
+    “ url ”： “ git + https：//github.com/enmnm/Blog.git ”
+  }，
+  “关键字”：[]，
+  “作者”： “ ”，
+  “许可证”： “ ISC ”，
+  “错误”：{
+    “ url ”： “ https://github.com/enmnm/Blog/issues ”
+  }，
+  “主页”： “ https://github.com/enmnm/Blog#readme ”
+}
